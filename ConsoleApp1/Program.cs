@@ -21,7 +21,6 @@ namespace ConsoleApp1
             {
                 name = "BOSS";
                 SayHiBoss(name);
-                Console.WriteLine($"Oooh, Sorry {name}!! \n");
                 Console.WriteLine($"Welcome home {name}.\n");
             }
             
